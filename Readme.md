@@ -8,3 +8,17 @@
 * [OVH](https://www.ovh.es)
 * [Netlify](https://www.netlify.com)
 
+## Fast feature development
+* https://retool.com/
+
+## Codemods
+* https://javaparser.org/
+* https://about.sourcegraph.com/
+
+
+## Enforcing architecture rules:
+* https://www.archunit.org/
+
+## Tech publications
+* https://nostarch.com/
+* 
