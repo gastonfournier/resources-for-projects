@@ -22,3 +22,8 @@
 ## Tech publications
 * https://nostarch.com/
 * 
+
+## Online drawing tools
+* https://app.diagrams.net/
+* https://whimsical.com/
+* https://miro.com/
