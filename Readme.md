@@ -12,7 +12,7 @@
 * https://retool.com/
 
 ## Codemods
-* https://javaparser.org/
+* https://javaparser.org/ it's a codegenerator tool with the capability of modifying the source code
 * https://about.sourcegraph.com/
 
 
