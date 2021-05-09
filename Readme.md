@@ -38,5 +38,8 @@
 * https://whimsical.com/
 * https://miro.com/
 
+# Microservices
+* https://github.com/resilience4j/resilience4j for sync communication
+
 # Publications for tech books
 * https://nostarch.com/
