@@ -83,3 +83,4 @@ These might help you speeding up your initial development
 * [REST API Using AWS API Gateway, Lambda and DynamoDB](https://medium.com/swlh/rest-api-using-aws-api-gateway-lambda-and-dynamodb-bc87fd695c5d)
 * [Structuring a Real-World Serverless App](https://www.serverless.com/blog/structuring-a-real-world-serverless-app)
 * [Using Kafka as a Data Backbone](https://medium.com/flippengineering/using-kafka-as-a-data-backbone-part-1-8316ab7db5e0)
+* Distributed ID generation [1](https://www.fatalerrors.org/a/9-kinds-of-distributed-id-generation-methods-there-is-always-one-for-you.html) and [2](https://avikdas.com/2020/03/23/scalability-concepts-distributed-id-generation.html)
