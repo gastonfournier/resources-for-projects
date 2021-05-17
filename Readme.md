@@ -48,6 +48,13 @@
 * [Event-driven APIs in Microservice Architectures](https://github.com/wso2/reference-architecture/blob/master/event-driven-api-architecture.md)
 * [Patterns for microservices](https://microservices.io/patterns/index.html)
 
+# X as code
+## Diagrams
+* https://mermaid-js.github.io/mermaid/#/
+* https://plantuml.com/ 
+## Presentations
+* [Reveal.js](https://revealjs.com/): Presentations as code
+
 # Databases
 ## Object relational mappers (ORM)
 These might help you speeding up your initial development
