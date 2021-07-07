@@ -72,7 +72,8 @@ These might help you speeding up your initial development
 * [Keda](https://keda.sh/): Kubernetes based [SEDA](https://github.com/mdwelsh/mdwelsh.github.io/raw/master/papers/seda-sosp01.pdf) implementation 
 * [Scientist4J](https://github.com/rawls238/Scientist4J) or [scientist](https://github.com/spoptchev/scientist): Allows you to replace code with confidence by running both legacy and new side by side
 * [Java Microbenchmark Harness (JMH)](https://github.com/openjdk/jmh): microbenchmarking for Java
-* [Map struct](https://mapstruct.org/): Automatic mapping of objects at compile time via code generation (similar to Lombok)
+* [Map struct](https://mapstruct.org/): Automatic mapping of objects at compile time via code generation
+* [Selma](http://www.selma-java.org/): Another automatic mapper
 
 
 # Kanban
