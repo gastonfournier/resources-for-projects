@@ -8,6 +8,9 @@
 * [OVH](https://www.ovh.es)
 * [Netlify](https://www.netlify.com)
 
+## VPN
+* https://tailscale.com/
+
 ## Design resources
 * https://github.com/bradtraversy/design-resources-for-developers
 * https://www.figma.com/
