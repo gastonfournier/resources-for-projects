@@ -18,6 +18,11 @@
 * https://www.namecheap.com/logo-maker/app/new
 * https://logomakr.com/
 
+# Services
+## Maps
+* https://developer.here.com/
+
+
 # Version management
 * https://github.com/kentaro-m/auto-assign-action Auto assigns people to PRs (so the author don't have to choose)
 * https://github.com/sourcegraph/codenotify helps notifying people about changes in code they're have intereset, in an unontrusive way.
