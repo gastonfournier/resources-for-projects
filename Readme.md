@@ -43,8 +43,9 @@
 * https://github.com/facebookincubator/fastmod
 * https://github.com/comby-tools/comby (that's what Sourcegraph depends on)
 
-## Enforcing architecture rules:
-* https://www.archunit.org/
+## Automations:
+* https://www.archunit.org/ enforcing architecture rules
+* https://github.com/diffplug/spotless enforcing code style
 
 ## Online drawing tools
 * https://app.diagrams.net/
