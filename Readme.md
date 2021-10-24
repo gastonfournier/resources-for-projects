@@ -51,6 +51,7 @@
 * https://app.diagrams.net/
 * https://whimsical.com/
 * https://miro.com/
+* https://excalidraw.com/
 
 # Microservices
 * https://github.com/resilience4j/resilience4j for sync communication
