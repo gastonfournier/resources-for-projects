@@ -10,7 +10,8 @@
 
 ## No-code/Low-code tools
 These tools are trending topic cause they allow business to move and experiment fast
-* https://www.nocode.tech/tools
+* https://www.nocode.tech/tools many tools categorized
+* https://rootly.com/ incident management
 
 ## VPN
 * https://tailscale.com/
