@@ -8,6 +8,10 @@
 * [OVH](https://www.ovh.es)
 * [Netlify](https://www.netlify.com)
 
+## No-code/Low-code tools
+These tools are trending topic cause they allow business to move and experiment fast
+* https://www.nocode.tech/tools
+
 ## VPN
 * https://tailscale.com/
 
