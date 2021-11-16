@@ -13,6 +13,7 @@ These tools are trending topic cause they allow business to move and experiment 
 * https://www.nocode.tech/tools many tools categorized
 * https://rootly.com/ incident management
 * https://auth0.com/ authentication made easy
+* https://airplane.dev/ automation of scripts similar to Retool
 
 ## VPN
 * https://tailscale.com/
