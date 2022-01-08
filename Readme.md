@@ -13,7 +13,9 @@ These tools are trending topic cause they allow business to move and experiment 
 * https://www.nocode.tech/tools many tools categorized
 * https://rootly.com/ incident management
 * https://auth0.com/ authentication made easy
+* https://retool.com/ generate backoffice easily
 * https://airplane.dev/ automation of scripts similar to Retool
+* https://www.appsmith.com/about-us another tool as Retool
 
 ## VPN
 * https://tailscale.com/
@@ -43,7 +45,6 @@ These tools are trending topic cause they allow business to move and experiment 
 # Engineering tools
 
 ## Fast feature development
-* https://retool.com/
 * [Tools to generate a living documentation from Java project](https://github.com/jboz/living-documentation)
 
 ## Codemods
