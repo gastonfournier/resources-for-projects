@@ -16,6 +16,7 @@ These tools are trending topic cause they allow business to move and experiment 
 * https://retool.com/ generate backoffice easily
 * https://airplane.dev/ automation of scripts similar to Retool
 * https://www.appsmith.com/about-us another tool as Retool
+* https://temporal.io/
 
 ## VPN
 * https://tailscale.com/
