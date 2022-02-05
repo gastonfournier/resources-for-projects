@@ -55,6 +55,9 @@ These tools are trending topic cause they allow business to move and experiment 
 * https://github.com/facebookincubator/fastmod
 * https://github.com/comby-tools/comby (that's what Sourcegraph depends on)
 
+## Code generation
+* https://bytebuddy.net/ code generation at runtime. Useful to create a Java Agent
+
 ## Automations:
 * https://www.archunit.org/ enforcing architecture rules
 * https://github.com/diffplug/spotless enforcing code style
