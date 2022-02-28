@@ -61,6 +61,7 @@ These tools are trending topic cause they allow business to move and experiment 
 ## Automations:
 * https://www.archunit.org/ enforcing architecture rules
 * https://github.com/diffplug/spotless enforcing code style
+* https://github.com/renovatebot/renovate/#readme update dependencies
 
 ## Online drawing tools
 * https://app.diagrams.net/
