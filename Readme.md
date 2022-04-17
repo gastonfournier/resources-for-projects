@@ -32,6 +32,14 @@ These tools are trending topic cause they allow business to move and experiment 
 ## Maps
 * https://developer.here.com/
 
+## Interface Definition Languages (IDL)
+- [Smithy documentation](https://awslabs.github.io/smithy/)  ([implementation and limitations](https://awslabs.github.io/smithy/implementations.html))
+- [Protocol Buffers](https://developers.google.com/protocol-buffers) ([simplified definitions with buf.build](https://docs.buf.build/lint/usage))
+- [Apache Avro! ](https://avro.apache.org/)
+- [Apache Thrift](https://thrift.apache.org/)
+- [Armeria](https://armeria.dev/docs/)
+- [AsyncAPI Initiative for event-driven APIs](https://www.asyncapi.com/)
+
 # Distribued configuration
 - https://line.github.io/centraldogma/
 - https://eng.uber.com/flipr/
