@@ -102,6 +102,10 @@ These might help you speeding up your initial development
 # GIT
 * [Git worktrees](https://levelup.gitconnected.com/git-worktrees-the-best-git-feature-youve-never-heard-of-9cd21df67baf)
 
+# Kubernetes (k8s)
+- [minikube](https://minikube.sigs.k8s.io/docs/) quickly sets up a local Kubernetes cluster
+- [helm](https://helm.sh) package manager for k8s, to find, share, and use software built for k8s
+
 # Cool projects or tools
 * [Stepsize](https://www.stepsize.com/): Allows you to report technical debt effortlessly and from anywhere, providing a nice UI to prioritize it
 * [Keda](https://keda.sh/): Kubernetes based [SEDA](https://github.com/mdwelsh/mdwelsh.github.io/raw/master/papers/seda-sosp01.pdf) implementation 
