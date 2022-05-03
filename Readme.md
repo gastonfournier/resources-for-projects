@@ -106,6 +106,7 @@ These might help you speeding up your initial development
 - [minikube](https://minikube.sigs.k8s.io/docs/) quickly sets up a local Kubernetes cluster
 - [helm](https://helm.sh) package manager for k8s, to find, share, and use software built for k8s
 - [Keda](https://keda.sh/) Event-driven Autoscaling
+- https://microk8s.io/
 
 # Cool projects or tools
 * [Stepsize](https://www.stepsize.com/): Allows you to report technical debt effortlessly and from anywhere, providing a nice UI to prioritize it
