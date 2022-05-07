@@ -17,3 +17,7 @@ You should clearly understand your relational schema (all data is relational), a
 # Examples of Modeling Relational Data in DynamoDB
 1. [Example of modeling relational data in DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-modeling-nosql-B.html)
 2. [Instagram model](https://docs.google.com/spreadsheets/d/1IWVXyiJ0y4DF6ii-H6vKCF0qQUZr4akI59IaiL1ArIs/edit#gid=1488945379) from Alex DeBrie, with code https://github.com/alexdebrie/dynamodb-instagram#readme"
+
+
+# Dive deep
+1. https://github.com/papers-we-love/papers-we-love/blob/master/datastores/dynamo-amazons-highly-available-key-value-store.pdf
