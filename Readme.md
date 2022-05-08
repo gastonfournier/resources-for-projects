@@ -7,6 +7,7 @@
 * [Scaleway](https://www.scaleway.com)
 * [OVH](https://www.ovh.es)
 * [Netlify](https://www.netlify.com)
+* [Uplcloud](https://upcloud.com/)
 
 ## No-code/Low-code tools
 These tools are trending topic cause they allow business to move and experiment fast
