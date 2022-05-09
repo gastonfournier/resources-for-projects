@@ -57,6 +57,11 @@ These tools are trending topic cause they allow business to move and experiment 
 ## Fast feature development
 * [Tools to generate a living documentation from Java project](https://github.com/jboz/living-documentation)
 
+
+## Feature toggles
+* https://www.getunleash.io/ open source feature toggles
+* https://github.com/uber/piranha to automate removal of feature toggles
+
 ## Codemods
 * https://javaparser.org/ it's a codegenerator tool with the capability of modifying the source code
 * https://about.sourcegraph.com/
