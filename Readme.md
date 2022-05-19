@@ -1,4 +1,4 @@
-# Resources for building your website 
+# Collection of resources to build your next project 
 ## Hosting providers
 * [Digital Ocean](https://www.digitalocean.com)
 * [Firebase](https://firebase.google.com)
@@ -113,9 +113,11 @@ These might help you speeding up your initial development
 - [helm](https://helm.sh) package manager for k8s, to find, share, and use software built for k8s
 - [Keda](https://keda.sh/) Event-driven Autoscaling
 - https://microk8s.io/
+- [karpenter](https://aws.amazon.com/blogs/aws/introducing-karpenter-an-open-source-high-performance-kubernetes-cluster-autoscaler/): cluster autoscaler
 
 # Cool projects or tools
 * [Stepsize](https://www.stepsize.com/): Allows you to report technical debt effortlessly and from anywhere, providing a nice UI to prioritize it
+* [Code Stream](https://www.codestream.com/): Integrates with the IDE allowing you to report issues or start conversations without leaving the tool.
 * [Keda](https://keda.sh/): Kubernetes based [SEDA](https://github.com/mdwelsh/mdwelsh.github.io/raw/master/papers/seda-sosp01.pdf) implementation 
 * [Scientist4J](https://github.com/rawls238/Scientist4J) or [scientist](https://github.com/spoptchev/scientist): Allows you to replace code with confidence by running both legacy and new side by side
 * [Java Microbenchmark Harness (JMH)](https://github.com/openjdk/jmh): microbenchmarking for Java
