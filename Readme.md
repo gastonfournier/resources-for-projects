@@ -114,6 +114,7 @@ These might help you speeding up your initial development
 - [Keda](https://keda.sh/) Event-driven Autoscaling
 - https://microk8s.io/
 - [karpenter](https://aws.amazon.com/blogs/aws/introducing-karpenter-an-open-source-high-performance-kubernetes-cluster-autoscaler/): cluster autoscaler
+- https://github.com/tilt-dev/tilt for local dev environments
 
 # Cool projects or tools
 * [Stepsize](https://www.stepsize.com/): Allows you to report technical debt effortlessly and from anywhere, providing a nice UI to prioritize it
