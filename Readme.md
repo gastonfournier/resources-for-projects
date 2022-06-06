@@ -21,6 +21,11 @@ These tools are trending topic cause they allow business to move and experiment 
 * https://nocodb.com/ Airtable open source alternative
 * https://www.airtable.com/ similar to spreadsheets
 * https://www.notion.so/ wikis, tables, databases and much more 
+* https://dagshub.com/ data science platform
+* https://lakefs.io/ data lake git-like access
+* https://pinot.apache.org/ OLAP platform
+* https://www.opslevel.com/ developer portal
+* https://backstage.io/ open source developer portal solution
 
 ## Security 
 * https://supertokens.com/ Open Source auth
