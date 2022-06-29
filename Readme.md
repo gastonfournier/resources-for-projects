@@ -56,6 +56,7 @@ These tools are trending topic cause they allow business to move and experiment 
 - [Apache Thrift](https://thrift.apache.org/)
 - [Armeria](https://armeria.dev/docs/)
 - [AsyncAPI Initiative for event-driven APIs](https://www.asyncapi.com/)
+- https://opensource.zalando.com/restful-api-guidelines/#appendix-tooling
 
 # Distribued configuration
 - https://line.github.io/centraldogma/
