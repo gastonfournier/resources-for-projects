@@ -73,7 +73,8 @@ These tools are trending topic cause they allow business to move and experiment 
 
 ## Fast feature development
 * [Tools to generate a living documentation from Java project](https://github.com/jboz/living-documentation)
-
+* Validate responses from two endpoints: https://github.com/opendiffy/diffy
+* Get metrics for different experimentations: https://github.com/rawls238/Scientist4J
 
 ## Feature toggles
 * https://www.getunleash.io/ open source feature toggles
