@@ -105,7 +105,11 @@ These tools are trending topic cause they allow business to move and experiment 
 * https://github.com/resilience4j/resilience4j for sync communication
 * [Event-driven APIs in Microservice Architectures](https://github.com/wso2/reference-architecture/blob/master/event-driven-api-architecture.md)
 * [Patterns for microservices](https://microservices.io/patterns/index.html)
+
+# Testing
+* https://github.com/awaitility/awaitility
 * [SoapUI - API testing](https://www.soapui.org/tools/soapui/)
+* https://github.com/Shopify/toxiproxy A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 
 # X as code
 ## Diagrams
