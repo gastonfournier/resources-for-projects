@@ -107,7 +107,7 @@ These tools are trending topic cause they allow business to move and experiment 
 * [Patterns for microservices](https://microservices.io/patterns/index.html)
 
 # Testing
-* https://github.com/awaitility/awaitility
+* https://github.com/awaitility/awaitility small Java DSL for synchronizing asynchronous operations
 * [SoapUI - API testing](https://www.soapui.org/tools/soapui/)
 * https://github.com/Shopify/toxiproxy A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 
