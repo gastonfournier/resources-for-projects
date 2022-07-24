@@ -50,6 +50,14 @@ These tools are trending topic cause they allow business to move and experiment 
 ## Maps
 * https://developer.here.com/
 
+## Identity management
+* https://cerbos.dev
+* https://www.ory.sh/open-source/ headless (i.e. API only, no UI) ![Ory stack](https://user-images.githubusercontent.com/455064/180640081-ef5521c1-3d01-4c37-802c-f0bda1cadb0f.png)
+* https://www.keycloak.org/
+
+## Analytics
+* https://plausible.io/ self-hosted or managed
+
 ## Interface Definition Languages (IDL)
 - [Smithy documentation](https://awslabs.github.io/smithy/)  ([implementation and limitations](https://awslabs.github.io/smithy/implementations.html))
 - [Protocol Buffers](https://developers.google.com/protocol-buffers) ([simplified definitions with buf.build](https://docs.buf.build/lint/usage))
@@ -91,7 +99,7 @@ These tools are trending topic cause they allow business to move and experiment 
 ## Code generation
 * https://bytebuddy.net/ code generation at runtime. Useful to create a Java Agent
 
-## Automations:
+## Automations
 * https://www.archunit.org/ enforcing architecture rules
 * https://github.com/diffplug/spotless enforcing code style
 * https://github.com/renovatebot/renovate/#readme update dependencies
@@ -113,9 +121,11 @@ These tools are trending topic cause they allow business to move and experiment 
 * https://github.com/Shopify/toxiproxy A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 
 # X as code
+
 ## Diagrams
 * https://mermaid-js.github.io/mermaid/#/
 * https://plantuml.com/ 
+
 ## Presentations
 * [Reveal.js](https://revealjs.com/): Presentations as code
 
@@ -154,6 +164,8 @@ These might help you speeding up your initial development
 
 # Engineering levels
 * https://www.wise.jobs/engineering-career-map/
+* 
+* https://www.levels.fyi/
 
 # Publications for tech books
 * https://nostarch.com/
