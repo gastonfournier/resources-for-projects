@@ -158,6 +158,7 @@ These might help you speeding up your initial development
 * [Map struct](https://mapstruct.org/): Automatic mapping of objects at compile time via code generation
 * [Selma](http://www.selma-java.org/): Another automatic mapper
 * [Build your own IntelliJ plugin](https://github.com/JetBrains/intellij-platform-plugin-template)
+* [Open source composable UI components](https://bit.dev/)
 
 # Kanban
 * [Limiting WIP](https://truemped.github.io/posts/mgmt/limiting-wip/)
