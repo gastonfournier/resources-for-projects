@@ -8,6 +8,7 @@
 * [OVH](https://www.ovh.es)
 * [Netlify](https://www.netlify.com)
 * [Uplcloud](https://upcloud.com/)
+* [Cloudjiffy](https://cloudjiffy.com/)
 
 ## No-code/Low-code tools
 These tools are trending topic cause they allow business to move and experiment fast
