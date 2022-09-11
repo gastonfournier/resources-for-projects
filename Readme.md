@@ -19,8 +19,9 @@ These tools are trending topic cause they allow business to move and experiment 
 * https://airplane.dev/ automation of scripts similar to Retool
 * https://www.appsmith.com/about-us another tool as Retool
 * https://temporal.io/ open source workflow management, and reliable distributed orchestration
-* https://nocodb.com/ Airtable open source alternative
 * https://www.airtable.com/ similar to spreadsheets
+* https://nocodb.com/ Airtable open source alternative
+* https://baserow.io/ anothre Airtable OSS alternative
 * https://www.notion.so/ wikis, tables, databases and much more 
 * https://dagshub.com/ data science platform
 * https://lakefs.io/ data lake git-like access
