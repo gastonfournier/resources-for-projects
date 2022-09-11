@@ -1,2 +1,2 @@
-https://towardsdatascience.com/the-experimentation-gap-3f5d374d354c
-https://sharedphysics.com/everything-is-important/
+- https://towardsdatascience.com/the-experimentation-gap-3f5d374d354c
+- https://sharedphysics.com/everything-is-important/
