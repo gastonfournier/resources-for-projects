@@ -40,6 +40,7 @@ These tools are trending topic cause they allow business to move and experiment 
 
 ## VPN
 * https://tailscale.com/
+* https://www.zerotier.com/
 
 ## Design resources
 * https://github.com/bradtraversy/design-resources-for-developers
