@@ -70,9 +70,8 @@ These tools are trending topic cause they allow business to move and experiment 
 - [AsyncAPI Initiative for event-driven APIs](https://www.asyncapi.com/)
 - https://opensource.zalando.com/restful-api-guidelines/#appendix-tooling
 
-# Distribued configuration
-- https://line.github.io/centraldogma/
-- https://eng.uber.com/flipr/
+## File synchronization
+- https://github.com/syncthing/syncthing
 
 # Version management
 * https://github.com/kentaro-m/auto-assign-action Auto assigns people to PRs (so the author don't have to choose)
@@ -91,6 +90,10 @@ These tools are trending topic cause they allow business to move and experiment 
 ## Feature toggles
 * https://www.getunleash.io/ open source feature toggles
 * https://github.com/uber/piranha to automate removal of feature toggles
+* ~https://eng.uber.com/flipr/~ 
+
+## Distribued configuration
+* https://line.github.io/centraldogma/
 
 ## Codemods
 * https://javaparser.org/ it's a codegenerator tool with the capability of modifying the source code
