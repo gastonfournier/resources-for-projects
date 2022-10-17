@@ -130,7 +130,8 @@ These tools are trending topic cause they allow business to move and experiment 
 
 ## Diagrams
 * https://mermaid-js.github.io/mermaid/#/
-* https://plantuml.com/ 
+* https://plantuml.com/
+* https://github.com/ModelioOpenSource/Modelio
 
 ## Presentations
 * [Reveal.js](https://revealjs.com/): Presentations as code
