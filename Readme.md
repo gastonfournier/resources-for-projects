@@ -51,6 +51,9 @@ These tools are trending topic cause they allow business to move and experiment 
 * https://logomakr.com/
 
 # Services
+## Payment Processors
+* https://stripe.com/
+
 ## Maps
 * https://developer.here.com/
 
