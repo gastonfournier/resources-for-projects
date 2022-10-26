@@ -99,6 +99,9 @@ These tools are trending topic cause they allow business to move and experiment 
 ## Distribued configuration
 * https://line.github.io/centraldogma/
 
+## GIT
+* https://bors.tech/ GitHub bot that prevents [merge skew / semantic merge conflicts]((https://bors.tech/essay/2017/02/02/pitch/)
+
 ## Codemods
 * https://javaparser.org/ it's a codegenerator tool with the capability of modifying the source code
 * https://about.sourcegraph.com/
