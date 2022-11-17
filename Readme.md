@@ -163,6 +163,7 @@ These might help you speeding up your initial development
 - [karpenter](https://aws.amazon.com/blogs/aws/introducing-karpenter-an-open-source-high-performance-kubernetes-cluster-autoscaler/): cluster autoscaler
 - https://github.com/tilt-dev/tilt for local dev environments
 - https://k8slens.dev/ UI free for personal use
+- https://github.com/sbstp/kubie to manage context while connecting to multiple clusters
 
 # Cool projects or tools
 * [Stepsize](https://www.stepsize.com/): Allows you to report technical debt effortlessly and from anywhere, providing a nice UI to prioritize it
