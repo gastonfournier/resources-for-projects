@@ -65,6 +65,9 @@ These tools are trending topic cause they allow business to move and experiment 
 ## Analytics
 * https://plausible.io/ self-hosted or managed
 
+## ecommerce
+- https://github.com/medusajs/medusa Shopify alternative
+
 ## Interface Definition Languages (IDL)
 - [Smithy documentation](https://awslabs.github.io/smithy/)  ([implementation and limitations](https://awslabs.github.io/smithy/implementations.html))
 - [Protocol Buffers](https://developers.google.com/protocol-buffers) ([simplified definitions with buf.build](https://docs.buf.build/lint/usage))
