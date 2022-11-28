@@ -35,6 +35,10 @@ These tools are trending topic cause they allow business to move and experiment 
 * https://supertokens.com/ Open Source auth
 * https://auth0.com/ authentication made easy
 
+## Devops
+* https://opentracing.io/
+* https://www.jaegertracing.io/
+
 ## Search
 * https://zincsearch.com/ open source search in Golang
 * https://www.meilisearch.com/ open source search in Rust
