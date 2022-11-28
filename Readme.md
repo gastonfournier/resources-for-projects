@@ -37,7 +37,8 @@ These tools are trending topic cause they allow business to move and experiment 
 
 ## Devops
 * https://opentracing.io/
-* https://www.jaegertracing.io/
+* https://www.jaegertracing.io/ distributed tracing
+* https://k6.io/ load testing
 
 ## Search
 * https://zincsearch.com/ open source search in Golang
