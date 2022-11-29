@@ -39,6 +39,7 @@ These tools are trending topic cause they allow business to move and experiment 
 * https://opentracing.io/
 * https://www.jaegertracing.io/ distributed tracing
 * https://k6.io/ load testing
+* https://victoriametrics.com/ open source metrics backend with a low memory footprint and horizontally scalable
 
 ## Search
 * https://zincsearch.com/ open source search in Golang
