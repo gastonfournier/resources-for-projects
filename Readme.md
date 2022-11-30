@@ -52,6 +52,7 @@ These tools are trending topic cause they allow business to move and experiment 
 ## Design resources
 * https://github.com/bradtraversy/design-resources-for-developers
 * https://www.figma.com/
+
 ### Logo makers
 * https://www.namecheap.com/logo-maker/app/new
 * https://logomakr.com/
@@ -110,6 +111,7 @@ These tools are trending topic cause they allow business to move and experiment 
 
 ## GIT
 * https://bors.tech/ GitHub bot that prevents [merge skew / semantic merge conflicts]((https://bors.tech/essay/2017/02/02/pitch/)
+* [Git worktrees](https://levelup.gitconnected.com/git-worktrees-the-best-git-feature-youve-never-heard-of-9cd21df67baf)
 
 ## Codemods
 * https://javaparser.org/ it's a codegenerator tool with the capability of modifying the source code
@@ -161,9 +163,6 @@ These might help you speeding up your initial development
 ## DynamoDB
 * https://aws.amazon.com/es/blogs/database/amazon-dynamodb-single-table-design-using-dynamodbmapper-and-spring-boot/
 
-# GIT
-* [Git worktrees](https://levelup.gitconnected.com/git-worktrees-the-best-git-feature-youve-never-heard-of-9cd21df67baf)
-
 # Kubernetes (k8s)
 - [minikube](https://minikube.sigs.k8s.io/docs/) quickly sets up a local Kubernetes cluster
 - [helm](https://helm.sh) package manager for k8s, to find, share, and use software built for k8s
@@ -184,13 +183,13 @@ These might help you speeding up your initial development
 * [Selma](http://www.selma-java.org/): Another automatic mapper
 * [Build your own IntelliJ plugin](https://github.com/JetBrains/intellij-platform-plugin-template)
 * [Open source composable UI components](https://bit.dev/)
+* https://github.com/ExpediaGroup/jarviz draw dependencies between java components
 
 # Kanban
 * [Limiting WIP](https://truemped.github.io/posts/mgmt/limiting-wip/)
 
 # Engineering levels
 * https://www.wise.jobs/engineering-career-map/
-* 
 * https://www.levels.fyi/
 
 # Publications for tech books
