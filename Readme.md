@@ -184,6 +184,7 @@ These might help you speeding up your initial development
 * [Build your own IntelliJ plugin](https://github.com/JetBrains/intellij-platform-plugin-template)
 * [Open source composable UI components](https://bit.dev/)
 * https://github.com/ExpediaGroup/jarviz draw dependencies between java components
+* https://github.com/o3de/o3de multi-platform 3D engine
 
 # Kanban
 * [Limiting WIP](https://truemped.github.io/posts/mgmt/limiting-wip/)
