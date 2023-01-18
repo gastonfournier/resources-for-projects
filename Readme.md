@@ -40,6 +40,7 @@ These tools are trending topic cause they allow business to move and experiment 
 * https://www.jaegertracing.io/ distributed tracing
 * https://k6.io/ load testing
 * https://victoriametrics.com/ open source metrics backend with a low memory footprint and horizontally scalable
+* https://github.com/upptime/upptime monitor uptime
 
 ## Search
 * https://zincsearch.com/ open source search in Golang
@@ -185,6 +186,7 @@ These might help you speeding up your initial development
 * [Open source composable UI components](https://bit.dev/)
 * https://github.com/ExpediaGroup/jarviz draw dependencies between java components
 * https://github.com/o3de/o3de multi-platform 3D engine
+* https://github.com/binwiederhier/ntfy Send push notifications to your phone or desktop using PUT/POST
 
 # Kanban
 * [Limiting WIP](https://truemped.github.io/posts/mgmt/limiting-wip/)
