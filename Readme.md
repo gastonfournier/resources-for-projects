@@ -31,6 +31,10 @@ These tools are trending topic cause they allow business to move and experiment 
 * https://backstage.io/ open source developer portal solution
 * https://www.buildable.dev/ customize, connect and extend third party apps and databases (alternative to Zapier)
 
+## Artificial Intelligence (AI)
+* https://xgboost.ai Scalable and Flexible Gradient Boosting library for many different languages
+* https://github.com/gradio-app/gradio Create UIs for your machine learning model in Python in 3 minutes
+
 ## Security 
 * https://supertokens.com/ Open Source auth
 * https://auth0.com/ authentication made easy
