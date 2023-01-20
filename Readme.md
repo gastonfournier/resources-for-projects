@@ -167,6 +167,7 @@ These might help you speeding up your initial development
 
 ## DynamoDB
 * https://aws.amazon.com/es/blogs/database/amazon-dynamodb-single-table-design-using-dynamodbmapper-and-spring-boot/
+* [Dedicated sub page](./dynamodb.md)
 
 # Kubernetes (k8s)
 - [minikube](https://minikube.sigs.k8s.io/docs/) quickly sets up a local Kubernetes cluster
@@ -191,6 +192,7 @@ These might help you speeding up your initial development
 * https://github.com/ExpediaGroup/jarviz draw dependencies between java components
 * https://github.com/o3de/o3de multi-platform 3D engine
 * https://github.com/binwiederhier/ntfy Send push notifications to your phone or desktop using PUT/POST
+* https://scrapy.org/ web scrapper in Python
 
 # Kanban
 * [Limiting WIP](https://truemped.github.io/posts/mgmt/limiting-wip/)
