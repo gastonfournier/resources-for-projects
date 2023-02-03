@@ -57,6 +57,7 @@ These tools are trending topic cause they allow business to move and experiment 
 ## Design resources
 * https://github.com/bradtraversy/design-resources-for-developers
 * https://www.figma.com/
+* https://www.canva.com simple to use for logos, infographics, flyers, posts, etc
 
 ### Logo makers
 * https://www.namecheap.com/logo-maker/app/new
