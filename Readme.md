@@ -134,6 +134,7 @@ These tools are trending topic cause they allow business to move and experiment 
 * https://astro.build/
 * https://svelte.dev/
 * https://tailwindcss.com/
+* https://www.gatsbyjs.com/
 
 ## Automations
 * https://www.archunit.org/ enforcing architecture rules
