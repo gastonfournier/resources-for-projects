@@ -211,6 +211,7 @@ These might help you speeding up your initial development
 
 # Publications for tech books
 * https://nostarch.com/
+* https://www.manning.com/
 
 # Domain Driven Design (DDD)
 * [Domain-Driven Design example](https://github.com/ddd-by-examples/library)
