@@ -116,6 +116,11 @@ These tools are trending topic cause they allow business to move and experiment 
 ## Distribued configuration
 * https://line.github.io/centraldogma/
 
+## Runtime management
+* https://github.com/jdxcode/rtx Runtime version manager for multiple tools
+* https://sdkman.io/ Java version manager
+* https://github.com/nvm-sh/nvm Node version manager
+
 ## GIT
 * https://bors.tech/ GitHub bot that prevents [merge skew / semantic merge conflicts]((https://bors.tech/essay/2017/02/02/pitch/)
 * [Git worktrees](https://levelup.gitconnected.com/git-worktrees-the-best-git-feature-youve-never-heard-of-9cd21df67baf)
