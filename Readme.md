@@ -66,6 +66,7 @@ These tools are trending topic cause they allow business to move and experiment 
 # Services
 ## Payment Processors
 * https://stripe.com/
+* https://hyperswitch.io/
 
 ## Maps
 * https://developer.here.com/
