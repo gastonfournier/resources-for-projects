@@ -43,6 +43,7 @@ These tools are trending topic cause they allow business to move and experiment 
 * https://opentracing.io/
 * https://www.jaegertracing.io/ distributed tracing
 * https://k6.io/ load testing
+* https://locust.io/ open source load testing tool
 * https://victoriametrics.com/ open source metrics backend with a low memory footprint and horizontally scalable
 * https://github.com/upptime/upptime monitor uptime
 
