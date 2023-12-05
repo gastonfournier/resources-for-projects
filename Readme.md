@@ -65,6 +65,9 @@ These tools are trending topic cause they allow business to move and experiment 
 * https://www.namecheap.com/logo-maker/app/new
 * https://logomakr.com/
 
+### CMS
+- https://strapi.io
+
 # Services
 ## Payment Processors
 * https://stripe.com/
