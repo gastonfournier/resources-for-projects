@@ -45,7 +45,8 @@ These tools are trending topic cause they allow business to move and experiment 
 * https://k6.io/ load testing
 * https://locust.io/ open source load testing tool
 * https://victoriametrics.com/ open source metrics backend with a low memory footprint and horizontally scalable
-* https://github.com/upptime/upptime monitor uptime
+* https://github.com/upptime/upptime monitor uptime in github actions
+* https://github.com/louislam/uptime-kuma
 
 ## Search
 * https://zincsearch.com/ open source search in Golang
