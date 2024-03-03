@@ -204,7 +204,7 @@ These might help you speeding up your initial development
 * [Code Stream](https://www.codestream.com/): Integrates with the IDE allowing you to report issues or start conversations without leaving the tool.
 * [Keda](https://keda.sh/): Kubernetes based [SEDA](https://github.com/mdwelsh/mdwelsh.github.io/raw/master/papers/seda-sosp01.pdf) implementation 
 * [Scientist4J](https://github.com/rawls238/Scientist4J) or [scientist](https://github.com/spoptchev/scientist): Allows you to replace code with confidence by running both legacy and new side by side
-* [Java Microbenchmark Harness (JMH)](https://github.com/openjdk/jmh): microbenchmarking for Java
+* [Java Microbenchmark Harness (JMH)](https://github.com/openjdk/jmh): micro benchmarking for Java
 * [Map struct](https://mapstruct.org/): Automatic mapping of objects at compile time via code generation
 * [Selma](http://www.selma-java.org/): Another automatic mapper
 * [Build your own IntelliJ plugin](https://github.com/JetBrains/intellij-platform-plugin-template)
@@ -213,6 +213,7 @@ These might help you speeding up your initial development
 * https://github.com/o3de/o3de multi-platform 3D engine
 * https://github.com/binwiederhier/ntfy Send push notifications to your phone or desktop using PUT/POST
 * https://scrapy.org/ web scrapper in Python
+* https://www.ventoy.net easy to use ISO boot creator. Just put ISO images in the USB and you're good to go
 
 # Kanban
 * [Limiting WIP](https://truemped.github.io/posts/mgmt/limiting-wip/)
