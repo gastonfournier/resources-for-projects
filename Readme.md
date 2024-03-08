@@ -1,4 +1,4 @@
-w# Collection of resources to build your next project 
+# Collection of resources to build your next project 
 ## Hosting providers
 * [Digital Ocean](https://www.digitalocean.com)
 * [Firebase](https://firebase.google.com)
