@@ -180,6 +180,9 @@ These tools are trending topic cause they allow business to move and experiment 
 * [Reveal.js](https://revealjs.com/): Presentations as code
 
 # Databases
+
+* https://kysely.dev The type-safe SQL query builder for TypeScript
+  
 ## Object relational mappers (ORM)
 These might help you speeding up your initial development
 * https://www.prisma.io/
