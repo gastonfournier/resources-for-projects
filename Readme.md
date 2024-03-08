@@ -1,4 +1,4 @@
-# Collection of resources to build your next project 
+w# Collection of resources to build your next project 
 ## Hosting providers
 * [Digital Ocean](https://www.digitalocean.com)
 * [Firebase](https://firebase.google.com)
@@ -29,11 +29,9 @@ These tools are trending topic cause they allow business to move and experiment 
 * https://pinot.apache.org/ OLAP platform
 * https://www.opslevel.com/ developer portal
 * https://backstage.io/ open source developer portal solution
-* https://www.buildable.dev/ customize, connect and extend third party apps and databases (alternative to Zapier)
+* https://www.buildable.dev/ customize, connect and extend third-party apps and databases (alternative to Zapier)
 
-## Artificial Intelligence (AI)
-* https://xgboost.ai Scalable and Flexible Gradient Boosting library for many different languages
-* https://github.com/gradio-app/gradio Create UIs for your machine learning model in Python in 3 minutes
+## [Artificial Intelligence (AI)](./AI.md)
 
 ## Security 
 * https://supertokens.com/ Open Source auth
