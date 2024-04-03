@@ -215,6 +215,7 @@ These might help you speeding up your initial development
 * https://github.com/binwiederhier/ntfy Send push notifications to your phone or desktop using PUT/POST
 * https://scrapy.org/ web scrapper in Python
 * https://www.ventoy.net easy to use ISO boot creator. Just put ISO images in the USB and you're good to go
+* https://etcher.balena.io/ another boot loader generator
 
 # Kanban
 * [Limiting WIP](https://truemped.github.io/posts/mgmt/limiting-wip/)
