@@ -1,0 +1,1 @@
+- https://github.com/uoaerg/wavemon wifi monitoring. Signal strenght and quality
