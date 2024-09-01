@@ -4,6 +4,7 @@
 ## Use local models
 - https://ollama.ai/
 - https://github.com/edgenai/edgen
+- https://github.com/mindsdb/mindsdb create, serve, and fine-tune models in real-time from your database, vector store, and application data.
 
 ## Image generators
 - https://pebblely.com/
