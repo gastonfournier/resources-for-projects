@@ -195,6 +195,7 @@ These might help you speeding up your initial development
 - [minikube](https://minikube.sigs.k8s.io/docs/) quickly sets up a local Kubernetes cluster
 - [helm](https://helm.sh) package manager for k8s, to find, share, and use software built for k8s
 - [Keda](https://keda.sh/) Event-driven Autoscaling
+- https://github.com/kestra-io/kestra open source orchestrator
 - https://microk8s.io/
 - [karpenter](https://aws.amazon.com/blogs/aws/introducing-karpenter-an-open-source-high-performance-kubernetes-cluster-autoscaler/): cluster autoscaler
 - https://github.com/tilt-dev/tilt for local dev environments
