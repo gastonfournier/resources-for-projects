@@ -11,18 +11,18 @@
 * [Cloudjiffy](https://cloudjiffy.com/)
 
 ## No-code/Low-code tools
-These tools are trending topic cause they allow business to move and experiment fast
+These tools are trending topics cause they allow businesses to move and experiment fast
 * https://www.nocode.tech/tools many tools categorized
 * https://rootly.com/ incident management
 * https://retool.com/ generate backoffice easily
-* https://www.tooljet.com/ opensource low code tool to generate inernal tools. Similar to Retool
+* https://www.tooljet.com/ opensource low code tool to create internal tools. Similar to Retool
 * https://www.superblocks.com/ free for personal
 * https://airplane.dev/ automation of scripts similar to Retool
 * https://www.appsmith.com/about-us another tool as Retool
 * https://temporal.io/ open source workflow management, and reliable distributed orchestration
 * https://www.airtable.com/ similar to spreadsheets
 * https://nocodb.com/ Airtable open source alternative
-* https://baserow.io/ anothre Airtable OSS alternative
+* https://baserow.io/ another Airtable OSS alternative
 * https://www.notion.so/ wikis, tables, databases and much more
 * https://github.com/AppFlowy-IO/AppFlowy open source option to Notion
 * https://dagshub.com/ data science platform
@@ -31,6 +31,7 @@ These tools are trending topic cause they allow business to move and experiment 
 * https://www.opslevel.com/ developer portal
 * https://backstage.io/ open source developer portal solution
 * https://www.buildable.dev/ customize, connect and extend third-party apps and databases (alternative to Zapier)
+* https://n8n.io/ allows to build workflows and automations
 
 ## [Artificial Intelligence (AI)](./AI.md)
 
@@ -79,13 +80,13 @@ These tools are trending topic cause they allow business to move and experiment 
 
 ## Identity management
 * https://cerbos.dev
-* https://www.ory.sh/open-source/ headless (i.e. API only, no UI) ![Ory stack](https://user-images.githubusercontent.com/455064/180640081-ef5521c1-3d01-4c37-802c-f0bda1cadb0f.png)
+* https://www.ory.sh/open-source/ headless (i.e. API only, no UI)![Ory stack](https://user-images.githubusercontent.com/455064/180640081-ef5521c1-3d01-4c37-802c-f0bda1cadb0f.png)
 * https://www.keycloak.org/
 
 ## Analytics
 * https://plausible.io/ self-hosted or managed
 
-## ecommerce
+## e-commerce
 - https://github.com/medusajs/medusa Shopify alternative
 
 ## Interface Definition Languages (IDL)
@@ -101,16 +102,16 @@ These tools are trending topic cause they allow business to move and experiment 
 - https://github.com/syncthing/syncthing
 
 # Version management
-* https://github.com/kentaro-m/auto-assign-action Auto assigns people to PRs (so the author don't have to choose)
-* https://github.com/sourcegraph/codenotify helps notifying people about changes in code they're have intereset, in an unontrusive way.
+* https://github.com/kentaro-m/auto-assign-action Auto assigns people to PRs (so the author doesn't have to choose)
+* https://github.com/sourcegraph/codenotify helps notify people about code changes they're interested, in an unobtrusive way.
 * https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners similar to codenotify but you're added as reviewer
 * https://www.pullapprove.com/ lets you define some policies for PR approvals
-* https://mergify.io/ can help you implement automatic merges, merge queues, backporting changes and more
+* https://mergify.io/ can help you implement automatic merges, merge queues, backporting changes, and more
 
 # Engineering tools
 
 ## Fast feature development
-* [Tools to generate a living documentation from Java project](https://github.com/jboz/living-documentation)
+* [Tools to generate living documentation from Java project](https://github.com/jboz/living-documentation)
 * Validate responses from two endpoints: https://github.com/opendiffy/diffy
 * Get metrics for different experimentations: https://github.com/rawls238/Scientist4J
 
@@ -182,8 +183,8 @@ These tools are trending topic cause they allow business to move and experiment 
 
 * https://kysely.dev The type-safe SQL query builder for TypeScript
   
-## Object relational mappers (ORM)
-These might help you speeding up your initial development
+## Object-relational mappers (ORM)
+These might help you speed up your initial development
 * https://www.prisma.io/
 * https://entgo.io/
 
